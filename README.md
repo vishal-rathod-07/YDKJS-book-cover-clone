@@ -24,7 +24,7 @@ Clone the repository:
 
 bashCopy code
 
-`git clone https://github.com/<your-username>/YDKJS-book-cover-clone.git`
+`git clone https://github.com/vishal-rathod-07/YDKJS-book-cover-clone.git`
 
 Open the `index.html` file in a browser to view the design.
 
